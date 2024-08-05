@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="/news-magazine/layout/styles/layout.css" type="text/css" />
